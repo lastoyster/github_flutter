@@ -2,9 +2,6 @@
 
 Github Timeline Flutter is a Simple mobile and web app developed using flutter in which user can download and share user public repositories zip file with other and also user can see user details, repositories, followers, followings and repository forks/stars users.
 
-## Demo App
-
-[Download Mobile App](https://drive.google.com/file/d/1ekwSDNGbNnRQu-d040P-v6d1tUQ8l_JS/view?usp=sharing)
 
 ## Screen Shots
 
@@ -19,12 +16,4 @@ Github Timeline Flutter is a Simple mobile and web app developed using flutter i
   <img src="https://user-images.githubusercontent.com/38593104/155703036-0084081c-9fef-438b-9d76-d9dfcbef4a1e.png" alt="alt text" width="1440" >
 </div>
 
-## Preview
 
-https://user-images.githubusercontent.com/38593104/155949945-4fbb7e1d-6b8a-4dd8-9d63-c44f196aacf6.mp4
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
