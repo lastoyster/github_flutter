@@ -8,12 +8,7 @@ Github Timeline Flutter is a Simple mobile and web app developed using flutter i
 <div >
   <img src="https://user-images.githubusercontent.com/38593104/155702348-ab574ac9-6384-41af-98c4-aaadbbf56ba4.png" alt="alt text" width="245">
   <img src="https://user-images.githubusercontent.com/38593104/155701698-0e20e496-4193-42d4-a56a-4be90efe1660.png" alt="alt text" width="245">
-  <img src="https://user-images.githubusercontent.com/38593104/155701758-47a22db9-8d3f-468e-95ef-01a3ac194602.png" alt="alt text" width="245">
-  <img src="https://user-images.githubusercontent.com/38593104/155702567-074d0036-646e-48dc-892a-6b372bba64e1.png" alt="alt text" width="245">
-  <img src="https://user-images.githubusercontent.com/38593104/155701801-c5f0c432-f8ca-450b-abef-191290ed50b6.png" alt="alt text" width="245">
-  <img src="https://user-images.githubusercontent.com/38593104/155701816-5fbd17b3-86a8-4f40-81df-c717013b980a.png" alt="alt text" width="245">
-  <img src="https://user-images.githubusercontent.com/38593104/155702833-367d3769-b9fc-4466-995c-43b85e26979a.png" alt="alt text" width="245">
-  <img src="https://user-images.githubusercontent.com/38593104/155703036-0084081c-9fef-438b-9d76-d9dfcbef4a1e.png" alt="alt text" width="1440" >
+  
 </div>
 
 
